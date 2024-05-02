@@ -55,3 +55,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dnloster&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dnloster&theme=github_dark&utcOffset=8)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=dnloster&theme=github-dark&border_radius=5&card_width=500)](https://git.io/streak-stats)
+
