@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Duc</h1>
-<h3 align="center">I'm a Developer from VietNam</h3>
 
 - 📫 Send contact **ducgt.ng@gmail.com**
 
